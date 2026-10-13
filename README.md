@@ -49,20 +49,18 @@ download them from Kaggle to rerun the notebook.
 6. Feature high-value categories such as watches and gifts.
 
 ## Selected charts
-![Monthly trend](charts/q1_monthly_trend.png)
-![Delivery performance](charts/q6_delivery.png)
-![Customer satisfaction](charts/q7_satisfaction.png)
-![Customer segments](charts/q9_rfm_segments.png)
+![Monthly trend](q1_monthly_trend.png)
+![Delivery performance](q6_delivery.png)
+![Customer satisfaction](q7_satisfaction.png)
+![Customer segments](q9_rfm_segments.png)
 
 ## Dashboard
-![Dashboard](dashboard/dashboard.png)
-![Dashboard filtered to Sao Paulo](dashboard/dashboard_sp.png)
-
+![Dashboard](dashboard_sp.png)
 ## Files
-- `olist_analysis.ipynb` and `olist_analysis.html`: the full analysis and cleaning log
-- `charts/`: all charts from the analysis
-- `olist_results.xlsx`: result tables
-- `dashboard/`: dashboard screenshots
+## Files
+- olist_analysis.ipynb and olist_analysis.html: the full analysis and cleaning log
+- q1 to q10 PNG files: charts from the analysis
+- olist_results.xlsx: result tables
 
 ## How to run it
 1. Download the dataset from Kaggle (search "Brazilian E-Commerce Public Dataset by Olist").
