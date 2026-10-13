@@ -56,7 +56,7 @@ download them from Kaggle to rerun the notebook.
 
 ## Dashboard
 ![Dashboard](dashboard_sp.png)
-## Files
+
 ## Files
 - olist_analysis.ipynb and olist_analysis.html: the full analysis and cleaning log
 - q1 to q10 PNG files: charts from the analysis
