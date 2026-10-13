@@ -23,7 +23,7 @@ download them from Kaggle to rerun the notebook.
    summed per order before joining to avoid double counting, and row counts were checked after every join. 
    Every cleaning decision is logged in the notebook.
 2. **Exploratory analysis:** monthly trends, categories, states, payments and order value.
-3. **Business questions:** delivery performance, customer satisfaction, retention (cohorts), 
+3. **Business questions:** delivery performance, customer satisfaction, retention (cohorts),
    RFM customer segmentation and seller performance.
 4. **Recommendations**, a Power BI dashboard and a one-to-two page manager summary.
 
