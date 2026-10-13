@@ -55,10 +55,14 @@ download them from Kaggle to rerun the notebook.
 ![Customer segments](q9_rfm_segments.png)
 
 ## Dashboard
-![Dashboard](dashboard_sp.png)
+![Dashboard](Dashboard.png)
+
+The dashboard has filters by state and month. Here it is filtered to Sao Paulo:
+
+![Dashboard filtered to Sao Paulo](dashboard_sp.png)
 
 ## Files
-- olist_analysis.ipynb and olist_analysis.html: the full analysis and cleaning log
+- Olist_analysis.ipynb and olist_analysis.html: the full analysis and cleaning log
 - q1 to q10 PNG files: charts from the analysis
 - olist_results.xlsx: result tables
 
@@ -66,7 +70,7 @@ download them from Kaggle to rerun the notebook.
 1. Download the dataset from Kaggle (search "Brazilian E-Commerce Public Dataset by Olist").
 2. Put the 9 CSV files in the same folder as the notebook.
 3. Install the libraries: `pip install pandas numpy matplotlib seaborn openpyxl`.
-4. Open `olist_analysis.ipynb` in Jupyter and choose Kernel, then Restart & Run All.
+4. Open `Olist_analysis.ipynb` in Jupyter and choose Kernel, then Restart & Run All.
 
 ## Limitations
 - Late delivery is linked to low reviews, but it is not proven to be the only cause.
@@ -76,4 +80,4 @@ download them from Kaggle to rerun the notebook.
 - Review scores belong to a whole order, so they are an imperfect measure of one seller.
 
 ## Author
-[SAMA VELDA] | [https://www.linkedin.com/in/sama-velda-590300386?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+[SAMA VELDA]  (https://www.linkedin.com/in/sama-velda-590300386?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
