@@ -65,6 +65,7 @@ The dashboard has filters by state and month. Here it is filtered to Sao Paulo:
 - Olist_analysis.ipynb and olist_analysis.html: the full analysis and cleaning log
 - q1 to q10 PNG files: charts from the analysis
 - olist_results.xlsx: result tables
+- [View the notebook online](https://nbviewer.org/github/Velda-arch/olist-ecommerce-analysis/blob/main/Olist_analysis.ipynb)
 
 ## How to run it
 1. Download the dataset from Kaggle (search "Brazilian E-Commerce Public Dataset by Olist").
